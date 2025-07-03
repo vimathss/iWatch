@@ -1,6 +1,6 @@
 # iWatch
 
-<img src="docs/iWatch%20.png" alt="Logo do Projeto" width="200px"/>
+<img src="docs/iWatch.png" alt="Logo do Projeto" width="200px"/>
 
 ---
 
