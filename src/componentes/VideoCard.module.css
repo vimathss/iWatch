@@ -1,0 +1,42 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    max-width: 480px;
+    margin-bottom: 20px;
+
+}
+
+.card img{
+    width: 100%;
+    margin-bottom: 10px;
+    aspect-ratio: 16/9; /* Mantém a proporção do YouTube */
+    object-fit: cover;  /* Corta a imagem para preencher */
+    border-radius: 12px;
+    cursor: pointer;
+    
+}
+
+.titulo{
+    color: white;
+}
+
+.canal{
+    color: gray;
+    font-size: 15px;
+}
+.canalDesc{
+    color: gray;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.canalDesc figcaption{
+    margin-right: 5px;
+}
+
+.canalDesc figcaption:nth-child(2) {
+    margin-left: 5px;
+}
