@@ -6,7 +6,7 @@ function VideoLista({ searchQuery }) {
     const [videosAPI, setVideosAPI] = useState([]) // Retorno da API
     const [erro, setErro] = useState('') // Mensagem de Erro
 
-    const chaveYT = 'AIzaSyBYiea4fj-g-km7XO4tidF6jAWmjDgu1PM'
+    const chaveYT = '' // INSIRA SUA API KEY
     const buscaPadrao = '' // Busca padrão ao entrar na page
 
     const buscaVideos = async (termoBusca) => {
