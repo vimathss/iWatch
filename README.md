@@ -10,7 +10,7 @@
 
 ## Sobre o Projeto
 
-[**Assista ao vídeo do projeto**](insira-o-link-do-video-aqui)
+[**Assista ao vídeo do projeto**](https://youtu.be/N4NInZ4V-zk)
 
 [**Documentação do projeto**](docs/iWatch.pdf)
 
