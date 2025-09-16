@@ -26,6 +26,18 @@ O objetivo central é demonstrar como consumir dados de forma dinâmica e aprese
 
 ---
 
+## Aprendizados  
+
+Durante o desenvolvimento, pude reforçar e aprimorar conhecimentos em:  
+
+- Consumo de **APIs reais** com autenticação via token  
+- Manipulação de **requisições assíncronas** com fetch e async/await  
+- Criação de **componentes reativos e reutilizáveis**  
+- Boas práticas de **UI/UX** para exibição clara de informações  
+- Deploy de aplicações modernas com **Vite**
+  
+---
+
 ## Instalação e Execução
 
 1. Clone ou baixe o projeto  
